@@ -1,0 +1,15 @@
+# Audio processing
+numpy
+pydub
+matplotlib
+
+# Playback
+pygame-ce
+
+# Drag and drop
+tkinterdnd2
+
+# Windows theming
+sv-ttk
+darkdetect
+pywinstyles
